@@ -1,6 +1,7 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
   <action id="BaseOnThisFunction" />
   <action id="Console.TableResult.Reload" />
+  <action id="FileChooser.GotoProject" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta r" />
@@ -20,6 +21,9 @@
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
+  <action id="Tool_External Tools_PHP CS Fixer">
+    <keyboard-shortcut first-keystroke="meta alt k" />
   </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
