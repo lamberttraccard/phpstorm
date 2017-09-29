@@ -1,0 +1,20 @@
+<application>
+  <component name="TemplateSettings">
+    <option name="deletedKeys">
+      <list>
+        <TemplateKey>
+          <option name="groupName" value="PHP" />
+          <option name="key" value="pubf" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="PHP" />
+          <option name="key" value="prof" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="PHP" />
+          <option name="key" value="prif" />
+        </TemplateKey>
+      </list>
+    </option>
+  </component>
+</application>

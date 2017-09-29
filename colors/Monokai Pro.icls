@@ -4,7 +4,7 @@
     <property name="created">2017-09-28T15:56:08</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.4.0.0</property>
-    <property name="modified">2017-09-29T11:29:07</property>
+    <property name="modified">2017-09-29T14:04:15</property>
     <property name="originalScheme">_@user_Monokai</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -14,10 +14,12 @@
   <colors>
     <option name="CARET_COLOR" value="b4b3b3" />
     <option name="CARET_ROW_COLOR" value="373438" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="272822" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="2d2a2e" />
     <option name="GUTTER_BACKGROUND" value="2d2a2e" />
     <option name="INDENT_GUIDE" value="363437" />
+    <option name="INFORMATION_HINT" value="4d4f51" />
     <option name="LINE_NUMBERS_COLOR" value="585a5c" />
+    <option name="METHOD_SEPARATORS_COLOR" value="363437" />
     <option name="NOTIFICATION_BACKGROUND" value="221f22" />
     <option name="RIGHT_MARGIN_COLOR" value="363437" />
     <option name="SELECTED_INDENT_GUIDE" value="444145" />
@@ -991,6 +993,11 @@
     </option>
     <option name="PHP_CONCATENATION">
       <value />
+    </option>
+    <option name="PHP_DOC_TAG">
+      <value>
+        <option name="FOREGROUND" value="939293" />
+      </value>
     </option>
     <option name="PHP_EXEC_COMMAND_ID" baseAttributes="DEFAULT_STRING" />
     <option name="PHP_INSTANCE_FIELD">
