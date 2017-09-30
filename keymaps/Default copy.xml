@@ -9,6 +9,9 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
+  <action id="HideActiveWindow">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
   <action id="ParameterInfo" />
   <action id="Refresh" />
   <action id="Replace" />
