@@ -1,5 +1,6 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
   <action id="BaseOnThisFunction" />
+  <action id="ChangesView.Diff" />
   <action id="CollapseSelection" />
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift meta period" />
@@ -7,7 +8,16 @@
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta period" />
   </action>
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.Reload" />
+  <action id="DatabaseView.CopyAction" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoProject" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
@@ -27,12 +37,14 @@
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
+  <action id="RunDashboard.CopyConfiguration" />
   <action id="SelectAllOccurrences">
-    <keyboard-shortcut first-keystroke="meta alt g" />
+    <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
   <action id="SelectNextOccurrence">
-    <keyboard-shortcut first-keystroke="meta g" />
+    <keyboard-shortcut first-keystroke="meta d" />
   </action>
+  <action id="SendEOF" />
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
@@ -47,5 +59,7 @@
   <action id="Vcs.Log.Refresh" />
   <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.UpdateProject" />
+  <action id="XDebugger.CopyWatch" />
   <action id="hg4idea.QRefresh" />
+  <action id="openAssertEqualsDiff" />
 </keymap>
