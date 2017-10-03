@@ -6,7 +6,7 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
-  <tool name="Eslint fix" description="Apply eslint fix to the current file." showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="Eslint fix" description="Apply eslint fix to the current file." showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="eslint" />
       <option name="PARAMETERS" value="--fix &quot;$FilePathRelativeToProjectRoot$&quot; " />
