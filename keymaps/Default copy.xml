@@ -13,6 +13,7 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
+  <action id="FindNext" />
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
@@ -25,6 +26,12 @@
   <action id="Rerun" />
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="meta alt g" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="meta g" />
   </action>
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="ctrl h" />
