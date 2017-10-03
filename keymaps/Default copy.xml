@@ -1,5 +1,12 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
   <action id="BaseOnThisFunction" />
+  <action id="CollapseSelection" />
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift meta period" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta period" />
+  </action>
   <action id="Console.TableResult.Reload" />
   <action id="FileChooser.GotoProject" />
   <action id="FileChooser.TogglePathShowing" />
