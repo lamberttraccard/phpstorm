@@ -12,10 +12,18 @@
   <action id="Console.Execute.Multiline" />
   <action id="Console.Jdbc.Execute" />
   <action id="Console.TableResult.CloneRow" />
+  <action id="Console.TableResult.NextPage" />
+  <action id="Console.TableResult.PreviousPage" />
   <action id="Console.TableResult.Reload" />
   <action id="DatabaseView.CopyAction" />
   <action id="Diff.ShowDiff" />
   <action id="EditorChooseLookupItemCompleteStatement" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="meta alt up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="meta alt down" />
+  </action>
   <action id="EditorCompleteStatement" />
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
@@ -41,7 +49,9 @@
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
+  <action id="NextOccurence" />
   <action id="ParameterInfo" />
+  <action id="PreviousOccurence" />
   <action id="Refresh" />
   <action id="Replace" />
   <action id="Rerun" />
