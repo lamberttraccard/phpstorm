@@ -9,13 +9,24 @@
     <keyboard-shortcut first-keystroke="meta period" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="Console.Execute.Multiline" />
+  <action id="Console.Jdbc.Execute" />
   <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.Reload" />
   <action id="DatabaseView.CopyAction" />
   <action id="Diff.ShowDiff" />
+  <action id="EditorChooseLookupItemCompleteStatement" />
+  <action id="EditorCompleteStatement" />
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
     <keyboard-shortcut first-keystroke="shift ctrl up" />
+  </action>
+  <action id="EditorSplitLine" />
+  <action id="EditorStartNewLine">
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
+  <action id="EditorStartNewLineBefore">
+    <keyboard-shortcut first-keystroke="shift meta enter" />
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoProject" />
@@ -59,6 +70,7 @@
   <action id="Vcs.Log.Refresh" />
   <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.UpdateProject" />
+  <action id="ViewSource" />
   <action id="XDebugger.CopyWatch" />
   <action id="hg4idea.QRefresh" />
   <action id="openAssertEqualsDiff" />
