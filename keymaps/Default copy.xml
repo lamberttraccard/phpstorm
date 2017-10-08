@@ -1,4 +1,8 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+    <mouse-shortcut keystroke="button4" />
+  </action>
   <action id="BaseOnThisFunction" />
   <action id="ChangesView.Diff" />
   <action id="CollapseSelection" />
@@ -42,6 +46,10 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+    <mouse-shortcut keystroke="button5" />
+  </action>
   <action id="GotoCustomRegion" />
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
@@ -50,8 +58,14 @@
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
   <action id="NextOccurence" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="meta alt right" />
+  </action>
   <action id="ParameterInfo" />
   <action id="PreviousOccurence" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="meta alt left" />
+  </action>
   <action id="Refresh" />
   <action id="Replace" />
   <action id="Rerun" />
