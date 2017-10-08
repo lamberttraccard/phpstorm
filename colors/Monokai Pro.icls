@@ -4,7 +4,7 @@
     <property name="created">2017-09-28T15:56:08</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.4.0.0</property>
-    <property name="modified">2017-10-07T18:21:56</property>
+    <property name="modified">2017-10-08T17:36:07</property>
     <property name="originalScheme">_@user_Monokai</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -654,8 +654,7 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="7f6e19" />
-        <option name="BACKGROUND" value="ffd45e" />
+        <option name="FOREGROUND" value="727072" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
