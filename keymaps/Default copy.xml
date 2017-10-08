@@ -73,6 +73,9 @@
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="RunDashboard.CopyConfiguration" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="ctrl meta l" />
   </action>
