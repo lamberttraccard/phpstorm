@@ -1,6 +1,10 @@
 <profile version="1.0">
   <option name="myName" value="Default" />
-  <inspection_tool class="PhpCSValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+  <inspection_tool class="Eslint" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="PhpCSValidationInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <scope name="Tests" level="INFORMATION" enabled="true">
+      <option name="CODING_STANDARD" value="PSR2" />
+    </scope>
     <option name="CODING_STANDARD" value="PSR2" />
   </inspection_tool>
 </profile>
