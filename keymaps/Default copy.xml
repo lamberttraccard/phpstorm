@@ -57,9 +57,6 @@
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
-  <action id="Javascript.Linters.EsLint.Fix">
-    <keyboard-shortcut first-keystroke="meta alt k" />
-  </action>
   <action id="NextOccurence" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="meta alt right" />
@@ -92,8 +89,11 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
+  <action id="Tool_External Tools_ESlint Fixer">
+    <keyboard-shortcut first-keystroke="meta alt k" second-keystroke="k" />
+  </action>
   <action id="Tool_External Tools_PHP CS Fixer">
-    <keyboard-shortcut first-keystroke="meta alt k" />
+    <keyboard-shortcut first-keystroke="meta alt k" second-keystroke="l" />
   </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
