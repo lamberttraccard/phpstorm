@@ -2,7 +2,14 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/Dropbox/Code/Labs/forum/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1508481831313">
+        <mark key="[" line="20" column="54" />
+        <mark key="]" line="20" column="29" />
+        <mark key="^" line="20" column="29" />
+        <mark key="." line="20" column="29" />
+      </file>
+    </filemarks>
     <jumps />
     <registers />
     <search>
