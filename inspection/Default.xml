@@ -2,6 +2,7 @@
   <option name="myName" value="Default" />
   <inspection_tool class="AmdModulesDependencies" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="BadExpressionStatementJS" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="BladeControlDirectives" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CallerJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CommaExpressionJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ConstantConditionalExpressionJS" enabled="false" level="WARNING" enabled_by_default="false" />
