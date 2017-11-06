@@ -32,10 +32,22 @@
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="meta alt down" />
   </action>
+  <action id="EditorCodeBlockEnd">
+    <keyboard-shortcut first-keystroke="meta alt close_bracket" />
+    <keyboard-shortcut first-keystroke="alt back_quote" />
+  </action>
+  <action id="EditorCodeBlockStart">
+    <keyboard-shortcut first-keystroke="meta alt open_bracket" />
+    <keyboard-shortcut first-keystroke="shift alt back_quote" />
+  </action>
   <action id="EditorCompleteStatement" />
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
     <keyboard-shortcut first-keystroke="shift ctrl up" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="meta right" />
   </action>
   <action id="EditorSplitLine" />
   <action id="EditorStartNewLine">
@@ -43,6 +55,9 @@
   </action>
   <action id="EditorStartNewLineBefore">
     <keyboard-shortcut first-keystroke="shift meta enter" />
+  </action>
+  <action id="EditorTextEnd">
+    <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoProject" />
